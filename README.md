@@ -1,8 +1,8 @@
 <a href="https://github.com/beafshar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beafshar&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/beafshar/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beafshar&repo=convoychat" />
+<a href="https://github.com/beafshar/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical" />
 </a>
 
 <!-- ![Bahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=beafshar&show_icons=true&theme=radical) -->
