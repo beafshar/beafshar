@@ -1,3 +1,4 @@
+[![Bahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=beafshar)](https://github.com/beafshar/github-readme-stats)
 ### Hi there 👋
 
 <!--
