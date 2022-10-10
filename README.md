@@ -1,3 +1,6 @@
+## My Statistics
+
+
 <a href="https://github.com/beafshar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beafshar&show_icons=true&theme=radical" />
 </a>
@@ -11,7 +14,34 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical)](https://github.com/beafshar/github-readme-stats) -->
 
-<!-- ### Hi there 👋 -->
+
+## About me
+I am currently studying as a computer engineer student in University of Tehran. My main interests are Machine Learning, Natural Language Processing, Software Engineering and Formal Methods.
+
+
+
+
+
+
+
+## Languages and Tools
+
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35rem" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white" /></code>
+<code><img height="35rem" alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=whit"/></code>
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Visual Studio Code" height="35rem" alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></code>
+<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
+
 
 <!--
 **beafshar/beafshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
