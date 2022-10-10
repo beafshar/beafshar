@@ -1,15 +1,17 @@
 <a href="https://github.com/beafshar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beafshar&show_icons=true&theme=radical" />
 </a>
+
+
 <a href="https://github.com/beafshar/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical" />
 </a>
 
 <!-- ![Bahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=beafshar&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical)](https://github.com/beafshar/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical)](https://github.com/beafshar/github-readme-stats) -->
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **beafshar/beafshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
