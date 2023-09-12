@@ -18,7 +18,7 @@
 ## About me
 Hello!
 
-This is Bahar Afshar. I am a master's student of Computer Science - AI applied at the UOttawa. I am working on my thesis about using active learning methods to detect an anti-money laundry system, under the supervision of Professor Paula Branco.
+This is Bahar Afshar. I am a master's student of Computer Science - AI applied at the UOttawa. I am working on my thesis about using active learning methods to implement an anti-money laundry system, under the supervision of Professor Paula Branco.
 Formerly, I received my Bachelor of Science in Computer Engineering from the University of Tehran.
 
 
