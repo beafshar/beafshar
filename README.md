@@ -16,10 +16,10 @@
 
 
 ## About me
-I am currently studying as a computer engineer student in University of Tehran. My main interests are Machine Learning, Natural Language Processing, Software Engineering and Formal Methods.
+Hello!
 
-
-
+This is Bahar Afshar. I am a master's student of Computer Science - AI applied at the UOttawa. I am working on my thesis about using active learning methods to detect an anti-money laundry system, under the supervision of Professor Paula Branco.
+Formerly, I received my Bachelor of Science in Computer Engineering from the University of Tehran.
 
 
 
